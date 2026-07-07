@@ -1,0 +1,9 @@
+This project analyzes sales, profit, customer segments, product performance, and regional trends using Power BI. 
+The dashboard helps identify top-performing products, profitable regions, and overall business performance through interactive visualizations.
+
+Page 1 provides an overview of business performance including total sales, profit, quantity sold, and order count. 
+It also shows sales distribution by category, region, and monthly trends.
+
+Page 2 focuses on product performance, highlighting the top-selling and most profitable products, category-wise profit, and detailed product information.
+
+Page 3 analyzes customer and regional insights, showing sales by customer segment, ship mode, state-wise sales, and profit distribution across regions.
